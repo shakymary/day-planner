@@ -6,6 +6,11 @@ body {
 
 .input-group {
     padding-right: 5px;
+
+}
+
+.input-group-text {
+    width: 80px;
 }
 
 textarea {
